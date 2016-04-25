@@ -1,0 +1,37 @@
+{
+  "Message": {
+    "NameSpace": "com.ligadata.kamanja.samples.messages",
+    "Name": "msg1",
+    "Version": "00.01.00",
+    "Description": "Find history of some data based on the time",
+    "Fixed": "true",
+    "Persist": "true",
+    "Fields": [
+      {
+             "Name":"id",
+             "Type":"System.Int"
+        }
+      ,
+       {
+             "Name":"description",
+             "Type":"System.String"
+        }
+      ,
+       {
+             "Name":"datestamp",
+             "Type":"System.String"
+        }
+    ],
+    "PartitionKey": [
+      "id"
+    ],
+    "PrimaryKey": [
+      "id"
+    ],
+    "TimePartitionInfo": {
+      "Key": "datestamp",
+      "Format": "MM/dd/yyyy",
+      "Type": "Daily"
+    }
+  }
+}

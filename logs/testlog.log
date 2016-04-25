@@ -1,0 +1,316 @@
+2015-10-12 11:38:02,250 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:38:02,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:38:04,457 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:38:08,641 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:38:14,710 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:38:14,710 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:38:14,710 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:38:14,710 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:38:14,711 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:38:14,711 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:38:14,711 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:38:16,586 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:38:21,386 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 11:38:21,387 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 11:38:21,387 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 11:38:21,387 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 11:44:29,482 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:44:29,482 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:44:29,482 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:44:29,482 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:44:29,483 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:44:29,483 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:44:29,483 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:44:31,682 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:45:08,890 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:48:07,191 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:48:07,192 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:48:10,212 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:48:12,262 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:48:15,939 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:48:15,939 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:48:15,940 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:48:15,940 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:48:15,940 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:48:15,940 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:48:15,940 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:48:17,841 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:48:54,463 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:50:53,064 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:50:53,064 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:50:53,064 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:50:53,065 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:50:53,065 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:50:53,065 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:50:53,065 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:50:54,953 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:50:56,774 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:50:59,702 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:50:59,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:51:01,679 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:51:49,911 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 11:51:49,911 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 11:51:49,911 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 11:51:49,912 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 11:53:18,109 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:53:18,110 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:53:20,360 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:53:51,033 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:55:27,543 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:55:27,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:55:29,898 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:55:31,533 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:55:35,683 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:55:37,574 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:57:14,580 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:58:44,879 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:58:44,879 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:58:44,879 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:58:44,880 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:58:44,880 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:58:44,880 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:58:44,880 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:58:46,785 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:58:49,150 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 11:58:57,296 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 11:58:57,297 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 11:58:59,170 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 11:59:24,575 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 11:59:24,576 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 11:59:24,576 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 11:59:24,576 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:00:08,677 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:00:10,854 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:03:36,886 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:03:39,186 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:03:41,015 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:03:44,950 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:03:44,951 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:03:46,931 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:03:51,119 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 12:03:51,120 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 12:03:51,120 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 12:03:51,120 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:05:20,875 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:05:20,876 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:05:22,804 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:05:54,447 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:07:58,424 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:08:01,755 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:08:03,367 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:08:07,570 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:08:07,570 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:08:07,570 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:08:07,570 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:08:07,571 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:08:07,571 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:08:07,571 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:08:09,438 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:08:26,106 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 12:08:26,106 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 12:08:26,107 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 12:08:26,107 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:08:50,445 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:08:50,446 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:08:52,330 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:09:23,916 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:13:17,748 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:13:17,749 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:13:23,732 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:13:25,635 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:13:38,139 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:13:38,140 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:13:38,140 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:13:38,140 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:13:38,140 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:13:38,141 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:13:38,141 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:13:40,020 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:13:43,815 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 12:13:43,815 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 12:13:43,815 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 12:13:43,816 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:18:28,593 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:18:28,593 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:18:28,593 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:18:28,593 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:18:28,594 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:18:28,594 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:18:28,594 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:18:30,781 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:18:32,622 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:18:35,486 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:18:35,487 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:18:37,361 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:18:40,264 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 12:18:40,264 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 12:18:40,264 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 12:18:40,264 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:19:02,054 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:19:02,055 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:19:03,927 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:19:08,021 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Compile for jarvismodel.scala has failed...rc = 1
+2015-10-12 12:19:08,021 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - Command used: ArrayBuffer(sh, -c, /usr/local/share/scala/bin/scalac -cp /usr/local/Cellar/kamanja/1.1/lib/system/metadata_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basefunctions_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/messagedef_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/methodextractor_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlcompiler_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/bootstrap_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-time-2.8.2.jar:/usr/local/Cellar/kamanja/1.1/lib/system/joda-convert-1.6.jar:/usr/local/Cellar/kamanja/1.1/lib/system/basetypes_2.10-0.1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmludfs_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/pmmlruntime_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-native_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-core_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-ast_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-databind-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-annotations-2.3.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/json4s-jackson_2.10-3.2.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jackson-core-2.3.1.jar:/usr/local/Cellar/kamanja/1.1/lib/system/log4j-1.2.17.jar:/usr/local/Cellar/kamanja/1.1/lib/system/guava-18.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/exceptions_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-reflect-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/scala-library-2.10.4.jar:/usr/local/Cellar/kamanja/1.1/lib/system/jsr305-1.3.9.jar:/usr/local/Cellar/kamanja/1.1/lib/system/kamanjabase_2.10-1.0.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_msg1_1000000_1444428756412.jar:/usr/local/Cellar/kamanja/1.1/lib/application/system_Jarvis_1000000_1444672111200.jar /usr/local/Cellar/kamanja/1.1/workingdir/jarvismodel/jarvismodel.scala)
+2015-10-12 12:19:08,021 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: Error compiling model source. Unable to create Jar RC = 1
+2015-10-12 12:19:08,021 - com.ligadata.MetadataAPI.CompilerProxy - ERROR - COMPILER_PROXY: unable to determine model metadata information during AddModel. ERROR metadataapi.jarvismodel
+2015-10-12 12:20:14,702 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:20:14,702 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:20:14,702 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:20:14,702 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:20:14,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:20:14,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:20:14,703 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:20:16,625 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:20:34,098 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:20:34,098 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:20:34,098 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:20:34,098 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:20:34,099 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:20:34,099 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:20:34,099 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:20:35,989 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:20:43,363 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:20:43,363 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:20:43,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:20:43,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:20:43,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:20:43,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:20:43,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:20:45,258 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:21:59,527 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:21:59,528 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:22:01,440 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:22:32,283 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:23:43,251 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:23:45,159 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:23:47,022 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:24:22,661 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:24:22,662 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:24:24,544 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:24:30,152 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:24:30,153 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:24:32,018 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:25:04,417 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:27:59,579 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:27:59,580 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:28:01,806 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:28:03,209 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
+2015-10-12 12:28:13,363 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_SCHEMA remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_LOCATION remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE_HOST remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - ADAPTER_SPECIFIC_CONFIG remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - SSL_PASSWD remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - AUDIT_PARMS remains unset
+2015-10-12 12:28:13,364 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - DATABASE remains unset
+2015-10-12 12:28:15,307 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - ERROR - Node Undefined not found in metadata
+2015-10-12 12:28:19,490 - com.ligadata.MetadataAPI.MetadataAPIImpl$ - WARN - Not Notifying the engine about this operation because The property NOTIFY_ENGINE is not set to YES
