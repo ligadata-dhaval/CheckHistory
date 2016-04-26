@@ -5,10 +5,9 @@
     "Version": "00.01.00",
     "Description": "Find history of some data based on the time",
     "Fixed": "true",
-    "Persist": "true",
     "Fields": [
       {
-             "Name":"id",
+             "Name":"hist_out_id",
              "Type":"System.Int"
         }
       ,
@@ -18,10 +17,10 @@
         }
     ],
     "PartitionKey": [
-      "id"
+      "hist_out_id"
     ],
     "PrimaryKey": [
-      "id"
+      "hist_out_id"
     ]
   }
 }

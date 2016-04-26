@@ -8,7 +8,7 @@
     "Persist": "true",
     "Fields": [
       {
-             "Name":"id",
+             "Name":"hw_id",
              "Type":"System.Int"
         }
       ,
@@ -23,10 +23,10 @@
         }
     ],
     "PartitionKey": [
-      "id"
+      "hw_id"
     ],
     "PrimaryKey": [
-      "id"
+      "hw_id"
     ],
     "TimePartitionInfo": {
       "Key": "datestamp",

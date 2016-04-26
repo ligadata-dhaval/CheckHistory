@@ -21,17 +21,20 @@ import com.ligadata.kamanja.metadata.ModelDef;
 
 class HistoryModelFactory(modelDef: ModelDef, nodeContext: NodeContext) extends ModelInstanceFactory(modelDef, nodeContext) {
   override def createModelInstance(): ModelInstance = return new HistoryModel(this)
-  override def getModelName: String = "com.ligadata.kamanja.samples.models.HelloWorldModel"
-  override def getVersion: String = "0.0.1"
+  override def getModelName: String = "com.ligadata.kamanja.samples.models.HistoryModel"
+  override def getVersion: String = "0.0.2"
   override def createResultObject(): ModelResultBase = new MappedModelResults()
 }
 
 class HistoryModel(factory: ModelInstanceFactory) extends ModelInstance(factory) {
    override def execute(txnCtxt: TransactionContext, execMsgsSet: Array[ContainerOrConcept], triggerdSetIndex: Int, outputDefault: Boolean): Array[ContainerOrConcept] = {
-     var historymsg : msg1 =  execMsgsSet(0).asInstanceOf[msg1] // This run should trigger when we have only msg1
-    println("History msg description: "+historymsg.description+ " and date is "+ historymsg.datestamp)
+
+
+    var historymsg : msg1 =  execMsgsSet(0).asInstanceOf[msg1] // This run should trigger when we have only msg1
+     historymsg.setTimePartitionData()
+    println("History msg description: "+historymsg.description+ " and date is "+ historymsg.getTimePartitionData())
 		val output = outmsg1.createInstance().asInstanceOf[outmsg1];
-		output.id = historymsg.id;
+		output.hist_out_id = historymsg.hw_id;
 		output.description = historymsg.description;
         return Array(output);
    }
